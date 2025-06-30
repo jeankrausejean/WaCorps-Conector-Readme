@@ -12,6 +12,8 @@ Uma interface web moderna e intuitiva para gerenciar instâncias da Evolution AP
 - **Copiar Credenciais**: Sistema de cópia automática para clipboard
 - **Responsivo**: Funciona perfeitamente em desktop e mobile
 
+![Tela Inicial](assets/1.jpg)
+
 ## 📋 Funcionalidades
 
 ### 🔧 Criação de Instâncias

@@ -12,16 +12,19 @@ Uma interface web moderna e intuitiva para gerenciar instâncias da Evolution AP
 - **Copiar Credenciais**: Sistema de cópia automática para clipboard
 - **Responsivo**: Funciona perfeitamente em desktop e mobile
 
-![Tela Inicial](assets/1.jpg)
 
 ## 📋 Funcionalidades
 
 ### 🔧 Criação de Instâncias
 
+![Tela Inicial](assets/1.jpg)
+
 - Configuração de integração (Baileys, Business, Evolution)
 - Webhook personalizado
 - Token customizado
 - Configurações de comportamento durante a criação
+
+![Instância Criada](assets/5.jpg)
 
 ### ⚙️ Configurações de Comportamento
 
@@ -32,6 +35,8 @@ Uma interface web moderna e intuitiva para gerenciar instâncias da Evolution AP
 - Visualizar status automaticamente
 - Sincronização de histórico completo
 
+![Comportamento](assets/4.jpg)
+
 ### 💬 Integração Chatwoot
 
 - Configurações básicas (URL, Account ID, Token)
@@ -41,6 +46,8 @@ Uma interface web moderna e intuitiva para gerenciar instâncias da Evolution AP
 - Configurações avançadas (organização, logo, JIDs ignorados)
 
 ### 🌐 Configurações de Proxy
+
+![Proxy](assets/3.jpg)
 
 - Suporte a HTTP, HTTPS, SOCKS4, SOCKS5
 - Autenticação com usuário e senha
@@ -53,6 +60,8 @@ Uma interface web moderna e intuitiva para gerenciar instâncias da Evolution AP
 - Reiniciar instância
 - Fazer logout
 - Deletar instância permanentemente
+
+![Gerenciar](assets/2.jpg)
 
 ## 🔐 Configuração de Segurança da API Key
 

@@ -67,7 +67,7 @@ Uma interface web moderna e intuitiva para gerenciar instâncias da Evolution AP
 
 ### Passo 1: Obter sua Global API Key
 
-1. Acesse o painel da Evolution API
+1. Acesse o Portainer, navegue até a sua Stack da Evolution API (v2), ou o painel que você utiliza
 2. Copie sua Global API Key
 
 ### Passo 2: Gerar a Chave Criptografada

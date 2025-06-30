@@ -126,7 +126,7 @@ const encryptedApiKey = "SEU_RESULTADO_CRIPTOGRAFADO_AQUI";
 
 2. **Preencha os Campos Básicos**
     - **Base URL**: URL da sua Evolution API (ex: `https://evo.exemplo.com`)
-    - **Nome da Instância**: Nome único para sua instância (apenas letras, números, _ e -)
+    - **Nome da Instância**: Nome único para sua instância (apenas letras, números, _ e -) não pode conter espaços.
 
 3. **Configure Opções Avançadas (Opcional)**
     - Clique em "⚙️ Opções Avançadas"
@@ -155,6 +155,7 @@ const encryptedApiKey = "SEU_RESULTADO_CRIPTOGRAFADO_AQUI";
     - Escaneie o QR Code no WhatsApp
     - Vá em: WhatsApp > Aparelhos Conectados > Conectar Aparelho
     - Escaneie o código em até 40 segundos
+    - Se não conectar, demorar ou de algum erro, aperte no botão "Conectar" ou em "Status" para verificar
 
 ### 🔧 Gerenciando Instâncias Existentes
 
@@ -172,7 +173,9 @@ const encryptedApiKey = "SEU_RESULTADO_CRIPTOGRAFADO_AQUI";
 
 4. **Conectar/Reconectar**
     - Clique em "Conectar" para gerar novo QR Code
-    - Escaneie no WhatsApp se necessário
+    - Vá em: WhatsApp > Aparelhos Conectados > Conectar Aparelho
+    - Escaneie o código em até 40 segundos
+    - Se não conectar, demorar ou de algum erro, aperte no botão "Conectar" ou em "Status" para verificar
 
 5. **Configurar Comportamento**
     - Clique em "Comportamento"
@@ -192,13 +195,13 @@ const encryptedApiKey = "SEU_RESULTADO_CRIPTOGRAFADO_AQUI";
     - Suporte a HTTP, HTTPS, SOCKS4, SOCKS5
 
 8. **Operações de Instância**
-    - **Reiniciar**: Reinicia a instância (pode gerar novo QR Code)
+    - **Reiniciar**: Reinicia a instância
     - **Logout**: Desconecta o WhatsApp da instância
     - **Deletar**: Remove permanentemente a instância
 
 ### 💡 Dicas Importantes
 
-- **Nomes Únicos**: Use nomes únicos para suas instâncias
+- **Nomes Únicos**: Use nomes únicos para suas instâncias, não pode conter espações
 
 2. **Guardar Credenciais**: Sempre anote o Nome da Instância e API Key
 

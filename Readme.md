@@ -7,6 +7,8 @@ Uma interface web moderna e intuitiva para gerenciar instâncias da Evolution AP
 - **Interface Moderna**: Design responsivo com tema dark e gradientes
 - **Segurança Avançada**: API Key criptografada com XOR + Base64
 - **Gerenciamento Completo**: Criar, configurar, conectar e deletar instâncias
+- **Contador de QR Code**: Um contador de 40 segundos com barra de progresso indica o tempo restante para escanear o QR Code.
+- **Atualização Automática de QR Code**: Se o tempo do contador expirar, um novo QR Code é gerado automaticamente, facilitando a conexão.
 - **Configurações Avançadas**: Chatwoot, Proxy, comportamentos personalizados
 - **QR Code Integrado**: Geração e exibição automática para conexão
 - **Copiar Credenciais**: Sistema de cópia automática para clipboard
